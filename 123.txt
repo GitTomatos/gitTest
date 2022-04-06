@@ -3,3 +3,4 @@ masterMaster456
 testMerge123
 afterMerge789
 afterMergeBranch789
+afterSecondMerge1010
